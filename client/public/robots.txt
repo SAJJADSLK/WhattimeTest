@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+Allow: /world-clock
+Allow: /converter
+Allow: /meeting-invite
+Allow: /countdown
+Allow: /dst-tracker
+Allow: /team-dashboard
+Allow: /city/
+Allow: /widget
+Allow: /admin/analytics
+Allow: /dashboard
+
+Disallow: /api/
+Disallow: /__manus__/
+Disallow: /.env
+Disallow: /node_modules/
+
+Sitemap: https://www.whattime.info/sitemap.xml
+
+Crawl-delay: 1
+Request-rate: 30/60
