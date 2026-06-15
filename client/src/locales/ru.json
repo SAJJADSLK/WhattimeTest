@@ -1,0 +1,124 @@
+{
+  "app": {
+    "title": "Chronos",
+    "tagline": "Всегда вовремя",
+    "description": "Точная синхронизация времени для связанного мира"
+  },
+  "nav": {
+    "home": "Главная",
+    "worldClock": "Мировые часы",
+    "converter": "Конвертер",
+    "meetings": "Приглашения на встречу",
+    "countdown": "Обратный отсчет",
+    "dst": "Отслеживание летнего времени",
+    "team": "Панель команды",
+    "countries": "Страны и города",
+    "widget": "Виджет",
+    "dashboard": "Панель управления",
+    "language": "Language"
+  },
+  "home": {
+    "hero": "Always On Time",
+    "subtitle": "Precision timekeeping for a connected world. Real-time clock synchronization, timezone conversion, and team coordination tools.",
+    "yourTimezone": "Your Timezone",
+    "location": "Location",
+    "utcOffset": "UTC Offset",
+    "dstStatus": "DST Status",
+    "date": "Date",
+    "week": "Week",
+    "dst": "DST",
+    "sunrise": "Sunrise",
+    "sunset": "Sunset",
+    "active": "Active",
+    "inactive": "Inactive",
+    "readyToMaster": "Ready to master time zones?",
+    "startUsing": "Start using WhatTime today for seamless global coordination"
+  },
+  "worldClock": {
+    "title": "World Clock",
+    "description": "100+ cities at a glance with real-time updates",
+    "search": "Search cities...",
+    "filterByRegion": "Filter by region",
+    "noResults": "No cities found"
+  },
+  "converter": {
+    "title": "Instant Converter",
+    "description": "Compare times across multiple timezones",
+    "selectCities": "Select cities to compare",
+    "addCity": "Add City",
+    "removeCity": "Remove"
+  },
+  "meetings": {
+    "title": "Smart Invites",
+    "description": "Share meeting times with automatic localization",
+    "createInvite": "Create Invite",
+    "selectTimezone": "Select timezone",
+    "selectTime": "Select time",
+    "generateLink": "Generate Link",
+    "copyLink": "Copy Link"
+  },
+  "countdown": {
+    "title": "Countdown Timer",
+    "description": "Shareable countdowns for events and launches",
+    "eventName": "Event name",
+    "targetDate": "Target date",
+    "startCountdown": "Start Countdown",
+    "shareLink": "Share Link"
+  },
+  "dst": {
+    "title": "DST Tracker",
+    "description": "Never miss daylight saving time changes",
+    "selectYear": "Select year",
+    "upcomingChanges": "Upcoming Changes",
+    "spring": "Spring Forward",
+    "fall": "Fall Back"
+  },
+  "team": {
+    "title": "Team Dashboard",
+    "description": "Find perfect meeting times for distributed teams",
+    "addCity": "Add City",
+    "workingHours": "Working Hours",
+    "overlap": "Overlap"
+  },
+  "countries": {
+    "title": "Countries & Timezones",
+    "description": "Browse all countries and their timezones",
+    "search": "Search countries...",
+    "cities": "Cities",
+    "timezones": "Timezones",
+    "region": "Region",
+    "noResults": "No countries found",
+    "allCities": "All Cities & Timezones",
+    "noCitiesFound": "No cities found for {{country}}"
+  },
+  "city": {
+    "exactTime": "Exact Time in {{city}}",
+    "cityNotFound": "City not found",
+    "location": "Location",
+    "country": "Country",
+    "region": "Region",
+    "population": "Population",
+    "timezone": "Timezone",
+    "sunTimes": "Sun Times",
+    "timeDifferences": "Time Differences from {{city}}",
+    "viewTime": "View Time"
+  },
+  "common": {
+    "language": "Язык",
+    "theme": "Тема",
+    "dark": "Темная",
+    "light": "Светлая",
+    "back": "Назад",
+    "search": "Поиск",
+    "loading": "Загрузка...",
+    "error": "Ошибка",
+    "success": "Успех",
+    "close": "Закрыть",
+    "save": "Сохранить",
+    "cancel": "Отмена",
+    "delete": "Удалить",
+    "edit": "Редактировать",
+    "add": "Добавить",
+    "remove": "Удалить"
+  }
+}

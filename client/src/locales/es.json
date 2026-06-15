@@ -1,0 +1,124 @@
+{
+  "app": {
+    "title": "WhatTime",
+    "tagline": "Siempre a Tiempo",
+    "description": "Precisión en la medición del tiempo para un mundo conectado"
+  },
+  "nav": {
+    "home": "Inicio",
+    "worldClock": "Reloj Mundial",
+    "converter": "Convertidor",
+    "meetings": "Invitaciones de Reunión",
+    "countdown": "Cuenta Atrás",
+    "dst": "Rastreador DST",
+    "team": "Panel de Equipo",
+    "countries": "Países y Ciudades",
+    "widget": "Widget",
+    "dashboard": "Panel",
+    "language": "Idioma"
+  },
+  "home": {
+    "hero": "Siempre a Tiempo",
+    "subtitle": "Precisión en la medición del tiempo para un mundo conectado. Sincronización de reloj en tiempo real, conversión de zonas horarias y herramientas de coordinación de equipos.",
+    "yourTimezone": "Tu Zona Horaria",
+    "location": "Ubicación",
+    "utcOffset": "Desplazamiento UTC",
+    "dstStatus": "Estado DST",
+    "date": "Fecha",
+    "week": "Semana",
+    "dst": "DST",
+    "sunrise": "Salida del Sol",
+    "sunset": "Puesta del Sol",
+    "active": "Activo",
+    "inactive": "Inactivo",
+    "readyToMaster": "¿Listo para dominar las zonas horarias?",
+    "startUsing": "Comienza a usar WhatTime hoy para una coordinación global sin problemas"
+  },
+  "worldClock": {
+    "title": "Reloj Mundial",
+    "description": "100+ ciudades de un vistazo con actualizaciones en tiempo real",
+    "search": "Buscar ciudades...",
+    "filterByRegion": "Filtrar por región",
+    "noResults": "No se encontraron ciudades"
+  },
+  "converter": {
+    "title": "Convertidor Instantáneo",
+    "description": "Compara horas en múltiples zonas horarias",
+    "selectCities": "Selecciona ciudades para comparar",
+    "addCity": "Agregar Ciudad",
+    "removeCity": "Eliminar"
+  },
+  "meetings": {
+    "title": "Invitaciones Inteligentes",
+    "description": "Comparte horas de reunión con localización automática",
+    "createInvite": "Crear Invitación",
+    "selectTimezone": "Seleccionar zona horaria",
+    "selectTime": "Seleccionar hora",
+    "generateLink": "Generar Enlace",
+    "copyLink": "Copiar Enlace"
+  },
+  "countdown": {
+    "title": "Temporizador de Cuenta Atrás",
+    "description": "Cuentas atrás compartibles para eventos y lanzamientos",
+    "eventName": "Nombre del evento",
+    "targetDate": "Fecha objetivo",
+    "startCountdown": "Iniciar Cuenta Atrás",
+    "shareLink": "Compartir Enlace"
+  },
+  "dst": {
+    "title": "Rastreador DST",
+    "description": "Nunca pierdas los cambios de horario de verano",
+    "selectYear": "Seleccionar año",
+    "upcomingChanges": "Cambios Próximos",
+    "spring": "Adelantar Reloj",
+    "fall": "Atrasar Reloj"
+  },
+  "team": {
+    "title": "Panel de Equipo",
+    "description": "Encuentra los mejores horarios de reunión para equipos distribuidos",
+    "addCity": "Agregar Ciudad",
+    "workingHours": "Horas de Trabajo",
+    "overlap": "Superposición"
+  },
+  "countries": {
+    "title": "Países y Zonas Horarias",
+    "description": "Explora todos los países y sus zonas horarias",
+    "search": "Buscar países...",
+    "cities": "Ciudades",
+    "timezones": "Zonas Horarias",
+    "region": "Región",
+    "noResults": "No se encontraron países",
+    "allCities": "Todas las Ciudades y Zonas Horarias",
+    "noCitiesFound": "No se encontraron ciudades para {{country}}"
+  },
+  "city": {
+    "exactTime": "Hora Exacta en {{city}}",
+    "cityNotFound": "Ciudad no encontrada",
+    "location": "Ubicación",
+    "country": "País",
+    "region": "Región",
+    "population": "Población",
+    "timezone": "Zona Horaria",
+    "sunTimes": "Horas del Sol",
+    "timeDifferences": "Diferencias de Hora desde {{city}}",
+    "viewTime": "Ver Hora"
+  },
+  "common": {
+    "language": "Idioma",
+    "theme": "Tema",
+    "dark": "Oscuro",
+    "light": "Claro",
+    "back": "Atrás",
+    "search": "Buscar",
+    "loading": "Cargando...",
+    "error": "Error",
+    "success": "Éxito",
+    "close": "Cerrar",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "add": "Agregar",
+    "remove": "Eliminar"
+  }
+}
